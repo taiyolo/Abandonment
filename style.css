@@ -1,0 +1,12 @@
+.blank {
+    padding-bottom: 1500px;
+    background-color: #ffffff;
+}
+#credit {
+    margin-top: 355px;
+    background-color: #f0f0f0;
+    color: #000000;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
